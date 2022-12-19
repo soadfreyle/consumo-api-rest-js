@@ -1,6 +1,6 @@
 console.log('Hello, world');
 
-const API_URL = 'https://api.thecatapi.com/v1/images/search?limit=3';
+const API_URL = 'https://api.thecatapi.com/v1/images/search?limit=3&api_key=live_ipwiI7pbcqPZuGeL1p6cJQDqImSxvgn9Oyyd0x83jwpATwTkvPPYpeN9Ae4yaZgt';
 
 
 async function reload() {
